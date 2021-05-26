@@ -1,0 +1,2 @@
+* text=auto !eol
+/branch1[!!-~]files.txt -text
